@@ -61,6 +61,7 @@ target/
 .venv/
 myenv/
 data/
+data_source/
 # Database
 *.db
 *.rdb
