@@ -1,5 +1,5 @@
 base:
-  project: Deep_Learning
+  project: dl
 
 raw_data:
   data_src: data_source
