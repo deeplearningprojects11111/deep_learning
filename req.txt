@@ -1,0 +1,11 @@
+pandas 
+numpy
+dvc
+karas
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+joblib
+PyYaml
+streamlit
